@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rfid-attendance-system-209217",
+  "private_key_id": "56abea549c39ad43a2ae04c2ee1dd32ef10531b2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDJqufWKak3MvdU\nfdQUjlV/QsZNSUsVpAmIdixNWR7hk1SViUXJQa75tlp1t5ucKv0VvfJuV3TqoNxl\nt96OJnrcn8pVoiI6fsI11Dc9CIRMr/aQV4PLqgsN/7GwL7qO3ewIJVk4olEUM75c\np4TQidfiE1vdOnzxwAtkO2wxqQGiqXAQdJh++X9LUeUHHAMmuItFbxlS+YVzVgaF\nl8QHCPzoiW+eXSRrgjnRcCOOgxH+Sj0tie1+wfEx8vOaCURCMj6UJrGT+g9igj6e\n2kyFxLfAybb/E7meip8OsEpmV4PCJNfMkUe58KnYAIm/Pujsa3ZzPpqBwSksGCpA\nQXiVaQRvAgMBAAECggEAMQ/rJycri8pScbPLDNUz56oPJG5YXgNybkiRrp+n66k0\nQs0KtVPNheLfTxREP1IWEFwNxtpwD0TjWbvJ4TtrWJFnYD35pdGA3ieq6KZRyXZl\nvegMoFfWKKm0SPDTqj5DVhgABM84enm8Lj5zCWj/pHihOMkp7IaUPuZWBB7hzviL\nL4CbKITFzTWC0UW6gNQlr3yzWJ0vPyGYQ0TNSyPKjAzcuh6/BwsHxZEFE6tgdXHP\n/435B087ysRK1Dc+YwZQpmmQJjQVVwuGUt5n+E1RDyfI6XsAl8uIj+xd4ausv+tF\nA0/sl8y6AVnb+xCraNqmFV8MGdyUhz2gpm2qzmLzAQKBgQDsHxPoA6gkqeiIQICL\nqfd++RIj5/1qTKRvsvk9MXvaEATr6VuFcbyD2qL6iL82kvPoldKS6DUJeDI8hUti\nsKTCfeJZKhf5BoKPxnzCJCN81Mh6CfrPVtRWR0rEvn4D5ECV3e0Ooe/eiUU48nJU\nHF6d378kN/EGkbOzBKzf/ZZovwKBgQDapUZQgwafk3xfXUUWh/Nsk74mRZjx+l12\n458o8EBcQ+k02vi9U0TENl8JWUAAZkqN2/SdbO2009Oixx/5jV3mPSbTNxPebv7T\neqZTbPoYbPRkXwFgJuQikuj2FJ8Ujb0hM0hiEtgL8tQFUi7/h6LDgpawE3fJp5aQ\nFjqIeMYgUQKBgCCxRN5Q80zwQYPr+mBcDiqEbeCO1GWNaw8UJrI0UcOliCjpzIQz\ndTiEYyBxIph5zE+dvuQcRoujGsGKax+k+Yr8RwS1cVBHeHhTsR5oRomYJJHRI+rl\nSM0RXebTwTrktZSKf7IQ9ddIBk+WMgI3U1pkimCHZlXUgp78vLrer56dAoGBAKlW\n9DyLHmgdTGh3zniC1u+zBcSShsBzDkx0QuLsIIzVNBtxtNC9Wzc0fSq6ay1kDD4O\nq0f6A6jXnsQlwQgAi0c0+YsAz2ypPsf/6C4Y6yJb0HSkeGZF+M8mRTPCCOtcU60R\nEPCUc6vdaISugCP8ov0VeSvqCA6ws5XpAXCNSbXhAoGAUSmYLlbdh74fgw+drc2k\nRnO1mOt+ajFSrk9Rw6E8INM8Jit7M2dxjiJnHp9dcKHlWlmu8fxRBXhCG95dOUTm\nwTbushhLeMHq/1Y8p9SkVWszaPTCC1nLSRjrLzh9p0XMlxapKkza75EgDO++B3oK\nqBPx/6SXtfi0SAN4WWuDCzo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "rfid-739@rfid-attendance-system-209217.iam.gserviceaccount.com",
+  "client_id": "111695546629947685007",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rfid-739%40rfid-attendance-system-209217.iam.gserviceaccount.com"
+}
