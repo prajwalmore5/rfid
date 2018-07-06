@@ -44,7 +44,7 @@ try:
       print("UID: "+str(uid[0])+","+str(uid[1])+","+str(uid[2])+","+str(uid[3]))
 
       #Import value to google sheets
-      row = ["name","uid_new","1"]
+      row = [name,uid_new,"1"]
       index = 4
       sheet.insert_row (row,index)
       time.sleep(2)
