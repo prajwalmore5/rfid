@@ -1,5 +1,7 @@
 import datetime
 now = datetime.datetime.now()
+
+#assign time variables
 t1 = now.replace(hour = 8, minute = 10, second = 0, microsecond = 0)
 t2 = now.replace(hour = 8, minute = 20, second = 0, microsecond = 0)
 t3 = now.replace(hour = 9, minute = 10, second = 0, microsecond = 0)
@@ -13,6 +15,7 @@ t10 = now.replace(hour = 12, minute = 55, second = 0, microsecond = 0)
 t11 = now.replace(hour = 1, minute = 45, second = 0, microsecond = 0)
 t12 = now.replace(hour = 1, minute = 55, second = 0, microsecond = 0)
 
+#conditions for entering attendance data according to lecture timing
 if now <= t2:
     print ('entry')
 elif (now >= t1) & (now <= t2):
