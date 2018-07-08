@@ -33,7 +33,7 @@ try:
     (status,uid) = MIFAREReader.MFRC522_Anticoll()
 
 
-    # If we have the UID, continue
+    # If we have the UID, continue.
     if status == MIFAREReader.MI_OK :
 
       check_uid = str(uid[0]) + str(uid[1]) + str(uid[2]) + str(uid[3])
