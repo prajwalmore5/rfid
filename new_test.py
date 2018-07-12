@@ -38,8 +38,6 @@ t9 = now.replace(hour = 12, minute = 25, second = 0, microsecond = 0)
 t10 = now.replace(hour = 12, minute = 55, second = 0, microsecond = 0)
 t11 = now.replace(hour = 13, minute = 45, second = 0, microsecond = 0)
 t12 = now.replace(hour = 13, minute = 55, second = 0, microsecond = 0)
-t13 = now.replace(hour = 14, minute = 45, second = 0, microsecond = 0)
-t14 = now.replace(hour = 14, minute = 55, second = 0, microsecond = 0)
 
 
 
@@ -124,13 +122,7 @@ def gsheet():
               sheet.update_cell(row_number,lec,'1')
               print('done')
               lec = lec-6
-              
-          elif (now >= t13) and (now <= t14):
-              lec=lec+7
-              sheet.update_cell(row_number,lec,'1')
-              print('done')
-              lec = lec-7
-
+             
           else:
               print('you are late')
     
